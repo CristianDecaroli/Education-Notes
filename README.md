@@ -4,18 +4,19 @@
 
 - **Git and GitHub commands** --> https://github.com/CristianDecaroli/Education-Notes/blob/main/git-github-commands.md
 
+- **Pandas Functions** -->
+
+---
 
 
 
-
-
-# Requirements.txt
+### **Requirements**
 
 Si quieres descargar todos estos archivos e instalar todas las librerías de forma rápida para poder practicar y ejecutar estas notas y proyectos, puedes hacer lo siguiente:
 
 (comandos basados en Linux)
 
-1. Clona mi repositorio `git clone <URL_del_repositorio_en_GitHub>`
+1. Clona mi repositorio `git clone https://github.com/CristianDecaroli/Education-Notes.git`
 
 2. Ingresa al proyecto con el comando `cd Education-Notes`
 
