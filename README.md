@@ -4,7 +4,9 @@
 
 - **Git and GitHub commands** --> https://github.com/CristianDecaroli/Education-Notes/blob/main/git-github-commands.md
 
-- **Pandas Functions** -->
+- **Pandas** --> https://github.com/CristianDecaroli/Education-Notes/tree/main/Pandas
+
+    - Pandas Functions --> https://github.com/CristianDecaroli/Education-Notes/blob/main/Pandas/pandas-functions.md
 
 ---
 
